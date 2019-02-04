@@ -1,0 +1,439 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/pentominoes4x15
+Board Size: 60
+Board Dimenstion: 15 x 4
+Total unique tiles: 12
+Total number of tiles with different orientations: 63
+Board: 
+###############
+###############
+###############
+###############
+Tile 0: 
+# 
+# 
+##
+# 
+Tile 1: 
+###
+ # 
+ # 
+Tile 2: 
+#  
+#  
+###
+Tile 3: 
+#  
+## 
+ ##
+Tile 4: 
+ # 
+###
+ # 
+Tile 5: 
+# #
+###
+Tile 6: 
+#
+#
+#
+#
+#
+Tile 7: 
+# 
+# 
+# 
+##
+Tile 8: 
+ #
+ #
+##
+# 
+Tile 9: 
+ ##
+## 
+ # 
+Tile 10: 
+##
+##
+# 
+Tile 11: 
+## 
+ # 
+ ##
+TotalRowsCreated:1696
+Number of sub-problems: 240
+Unique Solution: 1
+Unique Solution: 2
+Unique Solution: 3
+Unique Solution: 4
+Unique Solution: 5
+Unique Solution: 6
+Unique Solution: 7
+Unique Solution: 8
+Unique Solution: 9
+Unique Solution: 10
+Unique Solution: 11
+Unique Solution: 12
+Unique Solution: 13
+Unique Solution: 14
+Unique Solution: 15
+Unique Solution: 16
+Unique Solution: 17
+Unique Solution: 18
+Unique Solution: 19
+Unique Solution: 20
+Unique Solution: 21
+Unique Solution: 22
+Unique Solution: 23
+Unique Solution: 24
+Unique Solution: 25
+Unique Solution: 26
+Unique Solution: 27
+Unique Solution: 28
+Unique Solution: 29
+Unique Solution: 30
+Unique Solution: 31
+Unique Solution: 32
+Unique Solution: 33
+Unique Solution: 34
+Unique Solution: 35
+Unique Solution: 36
+Unique Solution: 37
+Unique Solution: 38
+Unique Solution: 39
+Unique Solution: 40
+Unique Solution: 41
+Unique Solution: 42
+Unique Solution: 43
+Unique Solution: 44
+Unique Solution: 45
+Unique Solution: 46
+Unique Solution: 47
+Unique Solution: 48
+Unique Solution: 49
+Unique Solution: 50
+Unique Solution: 51
+Unique Solution: 52
+Unique Solution: 53
+Unique Solution: 54
+Unique Solution: 55
+Unique Solution: 56
+Unique Solution: 57
+Unique Solution: 58
+Unique Solution: 59
+Unique Solution: 60
+Unique Solution: 61
+Unique Solution: 62
+Unique Solution: 63
+Unique Solution: 64
+Unique Solution: 65
+Unique Solution: 66
+Unique Solution: 67
+Unique Solution: 68
+Unique Solution: 69
+Unique Solution: 70
+Unique Solution: 71
+Unique Solution: 72
+Unique Solution: 73
+Unique Solution: 74
+Unique Solution: 75
+Unique Solution: 76
+Unique Solution: 77
+Unique Solution: 78
+Unique Solution: 79
+Unique Solution: 80
+Unique Solution: 81
+Unique Solution: 82
+Unique Solution: 83
+Unique Solution: 84
+Unique Solution: 85
+Unique Solution: 86
+Unique Solution: 87
+Unique Solution: 88
+Unique Solution: 89
+Unique Solution: 90
+Unique Solution: 91
+Unique Solution: 92
+Unique Solution: 93
+Unique Solution: 94
+Unique Solution: 95
+Unique Solution: 96
+Unique Solution: 97
+Unique Solution: 98
+Unique Solution: 99
+Unique Solution: 100
+Unique Solution: 101
+Unique Solution: 102
+Unique Solution: 103
+Unique Solution: 104
+Unique Solution: 105
+Unique Solution: 106
+Unique Solution: 107
+Unique Solution: 108
+Unique Solution: 109
+Unique Solution: 110
+Unique Solution: 111
+Unique Solution: 112
+Unique Solution: 113
+Unique Solution: 114
+Unique Solution: 115
+Unique Solution: 116
+Unique Solution: 117
+Unique Solution: 118
+Unique Solution: 119
+Unique Solution: 120
+Unique Solution: 121
+Unique Solution: 122
+Unique Solution: 123
+Unique Solution: 124
+Unique Solution: 125
+Unique Solution: 126
+Unique Solution: 127
+Unique Solution: 128
+Unique Solution: 129
+Unique Solution: 130
+Unique Solution: 131
+Unique Solution: 132
+Unique Solution: 133
+Unique Solution: 134
+Unique Solution: 135
+Unique Solution: 136
+Unique Solution: 137
+Unique Solution: 138
+Unique Solution: 139
+Unique Solution: 140
+Unique Solution: 141
+Unique Solution: 142
+Unique Solution: 143
+Unique Solution: 144
+Unique Solution: 145
+Unique Solution: 146
+Unique Solution: 147
+Unique Solution: 148
+Unique Solution: 149
+Unique Solution: 150
+Unique Solution: 151
+Unique Solution: 152
+Unique Solution: 153
+Unique Solution: 154
+Unique Solution: 155
+Unique Solution: 156
+Unique Solution: 157
+Unique Solution: 158
+Unique Solution: 159
+Unique Solution: 160
+Unique Solution: 161
+Unique Solution: 162
+Unique Solution: 163
+Unique Solution: 164
+Unique Solution: 165
+Unique Solution: 166
+Unique Solution: 167
+Unique Solution: 168
+Unique Solution: 169
+Unique Solution: 170
+Unique Solution: 171
+Unique Solution: 172
+Unique Solution: 173
+Unique Solution: 174
+Unique Solution: 175
+Unique Solution: 176
+Unique Solution: 177
+Unique Solution: 178
+Unique Solution: 179
+Unique Solution: 180
+Unique Solution: 181
+Unique Solution: 182
+Unique Solution: 183
+Unique Solution: 184
+Unique Solution: 185
+Unique Solution: 186
+Unique Solution: 187
+Unique Solution: 188
+Unique Solution: 189
+Unique Solution: 190
+Unique Solution: 191
+Unique Solution: 192
+Unique Solution: 193
+Unique Solution: 194
+Unique Solution: 195
+Unique Solution: 196
+Unique Solution: 197
+Unique Solution: 198
+Unique Solution: 199
+Unique Solution: 200
+Unique Solution: 201
+Unique Solution: 202
+Unique Solution: 203
+Unique Solution: 204
+Unique Solution: 205
+Unique Solution: 206
+Unique Solution: 207
+Unique Solution: 208
+Unique Solution: 209
+Unique Solution: 210
+Unique Solution: 211
+Unique Solution: 212
+Unique Solution: 213
+Unique Solution: 214
+Unique Solution: 215
+Unique Solution: 216
+Unique Solution: 217
+Unique Solution: 218
+Unique Solution: 219
+Unique Solution: 220
+Unique Solution: 221
+Unique Solution: 222
+Unique Solution: 223
+Unique Solution: 224
+Unique Solution: 225
+Unique Solution: 226
+Unique Solution: 227
+Unique Solution: 228
+Unique Solution: 229
+Unique Solution: 230
+Unique Solution: 231
+Unique Solution: 232
+Unique Solution: 233
+Unique Solution: 234
+Unique Solution: 235
+Unique Solution: 236
+Unique Solution: 237
+Unique Solution: 238
+Unique Solution: 239
+Unique Solution: 240
+Unique Solution: 241
+Unique Solution: 242
+Unique Solution: 243
+Unique Solution: 244
+Unique Solution: 245
+Unique Solution: 246
+Unique Solution: 247
+Unique Solution: 248
+Unique Solution: 249
+Unique Solution: 250
+Unique Solution: 251
+Unique Solution: 252
+Unique Solution: 253
+Unique Solution: 254
+Unique Solution: 255
+Unique Solution: 256
+Unique Solution: 257
+Unique Solution: 258
+Unique Solution: 259
+Unique Solution: 260
+Unique Solution: 261
+Unique Solution: 262
+Unique Solution: 263
+Unique Solution: 264
+Unique Solution: 265
+Unique Solution: 266
+Unique Solution: 267
+Unique Solution: 268
+Unique Solution: 269
+Unique Solution: 270
+Unique Solution: 271
+Unique Solution: 272
+Unique Solution: 273
+Unique Solution: 274
+Unique Solution: 275
+Unique Solution: 276
+Unique Solution: 277
+Unique Solution: 278
+Unique Solution: 279
+Unique Solution: 280
+Unique Solution: 281
+Unique Solution: 282
+Unique Solution: 283
+Unique Solution: 284
+Unique Solution: 285
+Unique Solution: 286
+Unique Solution: 287
+Unique Solution: 288
+Unique Solution: 289
+Unique Solution: 290
+Unique Solution: 291
+Unique Solution: 292
+Unique Solution: 293
+Unique Solution: 294
+Unique Solution: 295
+Unique Solution: 296
+Unique Solution: 297
+Unique Solution: 298
+Unique Solution: 299
+Unique Solution: 300
+Unique Solution: 301
+Unique Solution: 302
+Unique Solution: 303
+Unique Solution: 304
+Unique Solution: 305
+Unique Solution: 306
+Unique Solution: 307
+Unique Solution: 308
+Unique Solution: 309
+Unique Solution: 310
+Unique Solution: 311
+Unique Solution: 312
+Unique Solution: 313
+Unique Solution: 314
+Unique Solution: 315
+Unique Solution: 316
+Unique Solution: 317
+Unique Solution: 318
+Unique Solution: 319
+Unique Solution: 320
+Unique Solution: 321
+Unique Solution: 322
+Unique Solution: 323
+Unique Solution: 324
+Unique Solution: 325
+Unique Solution: 326
+Unique Solution: 327
+Unique Solution: 328
+Unique Solution: 329
+Unique Solution: 330
+Unique Solution: 331
+Unique Solution: 332
+Unique Solution: 333
+Unique Solution: 334
+Unique Solution: 335
+Unique Solution: 336
+Unique Solution: 337
+Unique Solution: 338
+Unique Solution: 339
+Unique Solution: 340
+Unique Solution: 341
+Unique Solution: 342
+Unique Solution: 343
+Unique Solution: 344
+Unique Solution: 345
+Unique Solution: 346
+Unique Solution: 347
+Unique Solution: 348
+Unique Solution: 349
+Unique Solution: 350
+Unique Solution: 351
+Unique Solution: 352
+Unique Solution: 353
+Unique Solution: 354
+Unique Solution: 355
+Unique Solution: 356
+Unique Solution: 357
+Unique Solution: 358
+Unique Solution: 359
+Unique Solution: 360
+Unique Solution: 361
+Unique Solution: 362
+Unique Solution: 363
+Unique Solution: 364
+Unique Solution: 365
+Unique Solution: 366
+Unique Solution: 367
+Unique Solution: 368
+Total Solutions so far: 1000
+Puzzle Solution Summary:
+Total Possible Solutions: 1472
+Total Unique Solutions: 368
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.571000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 5.381000 Seconds

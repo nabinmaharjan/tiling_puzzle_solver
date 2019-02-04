@@ -1,0 +1,179 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/board4
+Board Size: 238
+Board Dimenstion: 20 x 21
+Total unique tiles: 34
+Total number of tiles with different orientations: 169
+Board: 
+         xx         
+        xxxx        
+       xxxxxx       
+      xxxxxxxx      
+     xxxxxxxxxx     
+    xxxxxxxxxxxx    
+   xxxxxxxxxxxxxx   
+  xxxxxxxxxxxxxxxx  
+ xxxxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxxxxxx
+  xxxxxxxxxxxxxxxx  
+  xxxxxxxxxxxxxxxx  
+  xxxxxxxxxxxxxxxx  
+  xx    xx  x  xxx  
+  xx    xx  x  xxx  
+  xx    xxxxxxxxxx  
+  xx    xx  x  xxx  
+  xx    xx  x  xxx  
+  xx    xxxxxxxxxx  
+  xx    xxxxxxxxxx  
+  xx    xxxxxxxxxx  
+Tile 0: 
+x 
+xx
+Tile 1: 
+xx
+x 
+x 
+Tile 2: 
+  x
+xxx
+xxx
+x  
+Tile 3: 
+xx 
+xx 
+ x 
+ x 
+ xx
+ xx
+Tile 4: 
+x  x
+xxxx
+ xx 
+ xx 
+Tile 5: 
+ x 
+xxx
+ x 
+Tile 6: 
+xx
+xx
+xx
+Tile 7: 
+ x
+ x
+xx
+ x
+Tile 8: 
+   x
+xxxx
+x   
+Tile 9: 
+x 
+x 
+x 
+xx
+Tile 10: 
+  x 
+ xxx
+xxx 
+Tile 11: 
+ xx
+xx 
+ xx
+Tile 12: 
+   x
+  xx
+ xx 
+xx  
+Tile 13: 
+xx 
+ xx
+  x
+Tile 14: 
+  xx  
+xxxxxx
+  xx  
+Tile 15: 
+  xx  
+ xxxx 
+xx  xx
+Tile 17: 
+xxx
+Tile 16: 
+ xx 
+xxxx
+ xx 
+Tile 19: 
+x 
+x 
+x 
+x 
+xx
+Tile 18: 
+x  
+xxx
+ xx
+Tile 21: 
+x  x
+xxxx
+Tile 20: 
+x 
+xx
+x 
+x 
+Tile 23: 
+xx
+ x
+ x
+xx
+ x
+Tile 22: 
+x 
+xx
+xx
+x 
+Tile 25: 
+ x
+xx
+xx
+ x
+ x
+Tile 24: 
+x
+x
+x
+Tile 27: 
+xx 
+xxx
+ xx
+Tile 26: 
+xxx 
+xxxx
+xxx 
+Tile 29: 
+ xx
+xx 
+Tile 28: 
+xxx
+x  
+x  
+Tile 31: 
+ x   
+ x   
+xxxxx
+ x   
+Tile 30: 
+  x
+ xx
+ x 
+xxx
+Tile 32: 
+ x 
+xxx
+xx 
+x  
+Tile 33: 
+  xx
+xxxx
+xx  
+Given puzzle is not solvable. Num of squares in board should be equal to sum of number of squares in all given tile pieces!

@@ -1,0 +1,25 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/trivial
+Board Size: 8
+Board Dimenstion: 4 x 2
+Total unique tiles: 3
+Total number of tiles with different orientations: 17
+Board: 
+abba
+baba
+Tile 0: 
+ b
+aa
+Tile 1: 
+bab
+  a
+Tile 2: 
+b
+TotalRowsCreated:7
+Number of sub-problems: 1
+Unique Solution: 1
+Puzzle Solution Summary:
+Total Possible Solutions: 1
+Total Unique Solutions: 1
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.073000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.073000 Seconds

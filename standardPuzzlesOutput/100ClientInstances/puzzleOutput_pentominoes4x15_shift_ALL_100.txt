@@ -1,0 +1,208 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/pentominoes4x15_shift
+Board Size: 60
+Board Dimenstion: 18 x 4
+Total unique tiles: 12
+Total number of tiles with different orientations: 63
+Board: 
+   ###############
+  ############### 
+ ###############  
+###############   
+Tile 0: 
+# 
+# 
+##
+# 
+Tile 1: 
+###
+ # 
+ # 
+Tile 2: 
+#  
+#  
+###
+Tile 3: 
+#  
+## 
+ ##
+Tile 4: 
+ # 
+###
+ # 
+Tile 5: 
+# #
+###
+Tile 6: 
+#
+#
+#
+#
+#
+Tile 7: 
+# 
+# 
+# 
+##
+Tile 8: 
+ #
+ #
+##
+# 
+Tile 9: 
+ ##
+## 
+ # 
+Tile 10: 
+##
+##
+# 
+Tile 11: 
+## 
+ # 
+ ##
+TotalRowsCreated:1596
+Number of sub-problems: 59
+Unique Solution: 1
+Unique Solution: 2
+Unique Solution: 3
+Unique Solution: 4
+Unique Solution: 5
+Unique Solution: 6
+Unique Solution: 7
+Unique Solution: 8
+Unique Solution: 9
+Unique Solution: 10
+Unique Solution: 11
+Unique Solution: 12
+Unique Solution: 13
+Unique Solution: 14
+Unique Solution: 15
+Unique Solution: 16
+Unique Solution: 17
+Unique Solution: 18
+Unique Solution: 19
+Unique Solution: 20
+Unique Solution: 21
+Unique Solution: 22
+Unique Solution: 23
+Unique Solution: 24
+Unique Solution: 25
+Unique Solution: 26
+Unique Solution: 27
+Unique Solution: 28
+Unique Solution: 29
+Unique Solution: 30
+Unique Solution: 31
+Unique Solution: 32
+Unique Solution: 33
+Unique Solution: 34
+Unique Solution: 35
+Unique Solution: 36
+Unique Solution: 37
+Unique Solution: 38
+Unique Solution: 39
+Unique Solution: 40
+Unique Solution: 41
+Unique Solution: 42
+Unique Solution: 43
+Unique Solution: 44
+Unique Solution: 45
+Unique Solution: 46
+Unique Solution: 47
+Unique Solution: 48
+Unique Solution: 49
+Unique Solution: 50
+Unique Solution: 51
+Unique Solution: 52
+Unique Solution: 53
+Unique Solution: 54
+Unique Solution: 55
+Unique Solution: 56
+Unique Solution: 57
+Unique Solution: 58
+Unique Solution: 59
+Unique Solution: 60
+Unique Solution: 61
+Unique Solution: 62
+Unique Solution: 63
+Unique Solution: 64
+Unique Solution: 65
+Unique Solution: 66
+Unique Solution: 67
+Unique Solution: 68
+Unique Solution: 69
+Unique Solution: 70
+Unique Solution: 71
+Unique Solution: 72
+Unique Solution: 73
+Unique Solution: 74
+Unique Solution: 75
+Unique Solution: 76
+Unique Solution: 77
+Unique Solution: 78
+Unique Solution: 79
+Unique Solution: 80
+Unique Solution: 81
+Unique Solution: 82
+Unique Solution: 83
+Unique Solution: 84
+Unique Solution: 85
+Unique Solution: 86
+Unique Solution: 87
+Unique Solution: 88
+Unique Solution: 89
+Unique Solution: 90
+Unique Solution: 91
+Unique Solution: 92
+Unique Solution: 93
+Unique Solution: 94
+Unique Solution: 95
+Unique Solution: 96
+Unique Solution: 97
+Unique Solution: 98
+Unique Solution: 99
+Unique Solution: 100
+Unique Solution: 101
+Unique Solution: 102
+Unique Solution: 103
+Unique Solution: 104
+Unique Solution: 105
+Unique Solution: 106
+Unique Solution: 107
+Unique Solution: 108
+Unique Solution: 109
+Unique Solution: 110
+Unique Solution: 111
+Unique Solution: 112
+Unique Solution: 113
+Unique Solution: 114
+Unique Solution: 115
+Unique Solution: 116
+Unique Solution: 117
+Unique Solution: 118
+Unique Solution: 119
+Unique Solution: 120
+Unique Solution: 121
+Unique Solution: 122
+Unique Solution: 123
+Unique Solution: 124
+Unique Solution: 125
+Unique Solution: 126
+Unique Solution: 127
+Unique Solution: 128
+Unique Solution: 129
+Unique Solution: 130
+Unique Solution: 131
+Unique Solution: 132
+Unique Solution: 133
+Unique Solution: 134
+Unique Solution: 135
+Unique Solution: 136
+Unique Solution: 137
+Unique Solution: 138
+Puzzle Solution Summary:
+Total Possible Solutions: 276
+Total Unique Solutions: 138
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.521000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 1.675000 Seconds

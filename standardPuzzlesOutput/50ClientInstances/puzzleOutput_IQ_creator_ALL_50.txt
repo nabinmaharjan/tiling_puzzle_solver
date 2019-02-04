@@ -1,0 +1,63 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/IQ_creator
+Board Size: 64
+Board Dimenstion: 8 x 8
+Total unique tiles: 8
+Total number of tiles with different orientations: 38
+Board: 
+ZZZZZZZZ
+ZZZZZZZZ
+ZZZZZZZZ
+ZZZZZZZZ
+ZZZZZZZZ
+ZZZZZZZZ
+ZZZZZZZZ
+ZZZZZZZZ
+Tile 0: 
+ZZZ
+ZZZ
+ ZZ
+Tile 1: 
+ZZ  
+ZZZZ
+  ZZ
+Tile 2: 
+ZZZ
+  Z
+  Z
+ZZZ
+Tile 3: 
+Z  
+Z  
+ZZZ
+ZZZ
+Tile 4: 
+  ZZ
+ZZZZ
+  ZZ
+Tile 5: 
+ZZZ  
+ZZZZZ
+Tile 6: 
+  Z
+ZZZ
+ZZZ
+  Z
+Tile 7: 
+ZZ
+ZZ
+ZZ
+ZZ
+TotalRowsCreated:1158
+Number of sub-problems: 266
+Unique Solution: 1
+Unique Solution: 2
+Unique Solution: 3
+Unique Solution: 4
+Unique Solution: 5
+Unique Solution: 6
+Puzzle Solution Summary:
+Total Possible Solutions: 48
+Total Unique Solutions: 6
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.494000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 1.100000 Seconds

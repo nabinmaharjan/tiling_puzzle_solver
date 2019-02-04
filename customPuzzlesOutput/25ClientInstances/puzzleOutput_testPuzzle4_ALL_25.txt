@@ -1,0 +1,136 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/test/testPuzzle4
+Board Size: 48
+Board Dimenstion: 7 x 8
+Total unique tiles: 9
+Total number of tiles with different orientations: 47
+Board: 
+ ***** 
+*******
+**  ***
+**  ***
+*******
+*******
+*******
+ ***** 
+Tile 0: 
+ ***
+*** 
+Tile 1: 
+ **
+** 
+ * 
+ * 
+Tile 2: 
+**
+**
+Tile 3: 
+*
+*
+Tile 4: 
+**   
+*****
+Tile 5: 
+  **
+*** 
+Tile 6: 
+  *
+  *
+***
+Tile 7: 
+*  
+*  
+*  
+*  
+***
+Tile 8: 
+  *  
+*****
+TotalRowsCreated:662
+Number of sub-problems: 123
+Unique Solution: 1
+Unique Solution: 2
+Unique Solution: 3
+Unique Solution: 4
+Unique Solution: 5
+Unique Solution: 6
+Unique Solution: 7
+Unique Solution: 8
+Unique Solution: 9
+Unique Solution: 10
+Unique Solution: 11
+Unique Solution: 12
+Unique Solution: 13
+Unique Solution: 14
+Unique Solution: 15
+Unique Solution: 16
+Unique Solution: 17
+Unique Solution: 18
+Unique Solution: 19
+Unique Solution: 20
+Unique Solution: 21
+Unique Solution: 22
+Unique Solution: 23
+Unique Solution: 24
+Unique Solution: 25
+Unique Solution: 26
+Unique Solution: 27
+Unique Solution: 28
+Unique Solution: 29
+Unique Solution: 30
+Unique Solution: 31
+Unique Solution: 32
+Unique Solution: 33
+Unique Solution: 34
+Unique Solution: 35
+Unique Solution: 36
+Unique Solution: 37
+Unique Solution: 38
+Unique Solution: 39
+Unique Solution: 40
+Unique Solution: 41
+Unique Solution: 42
+Unique Solution: 43
+Unique Solution: 44
+Unique Solution: 45
+Unique Solution: 46
+Unique Solution: 47
+Unique Solution: 48
+Unique Solution: 49
+Unique Solution: 50
+Unique Solution: 51
+Unique Solution: 52
+Unique Solution: 53
+Unique Solution: 54
+Unique Solution: 55
+Unique Solution: 56
+Unique Solution: 57
+Unique Solution: 58
+Unique Solution: 59
+Unique Solution: 60
+Unique Solution: 61
+Unique Solution: 62
+Unique Solution: 63
+Unique Solution: 64
+Unique Solution: 65
+Unique Solution: 66
+Unique Solution: 67
+Unique Solution: 68
+Unique Solution: 69
+Unique Solution: 70
+Unique Solution: 71
+Unique Solution: 72
+Unique Solution: 73
+Unique Solution: 74
+Unique Solution: 75
+Unique Solution: 76
+Unique Solution: 77
+Unique Solution: 78
+Unique Solution: 79
+Unique Solution: 80
+Unique Solution: 81
+Puzzle Solution Summary:
+Total Possible Solutions: 81
+Total Unique Solutions: 81
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.243000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.835000 Seconds

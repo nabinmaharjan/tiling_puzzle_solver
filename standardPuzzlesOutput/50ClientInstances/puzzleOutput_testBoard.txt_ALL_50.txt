@@ -1,0 +1,11 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/testBoard.txt
+Board Size: 12
+Board Dimenstion: 6 x 3
+Total unique tiles: 0
+Total number of tiles with different orientations: 0
+Board: 
+######
+##  ##
+    ##
+Given puzzle is not solvable. Num of squares in board should be equal to sum of number of squares in all given tile pieces!

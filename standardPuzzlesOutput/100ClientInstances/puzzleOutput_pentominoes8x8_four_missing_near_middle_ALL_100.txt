@@ -1,0 +1,95 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/pentominoes8x8_four_missing_near_middle
+Board Size: 60
+Board Dimenstion: 8 x 8
+Total unique tiles: 12
+Total number of tiles with different orientations: 63
+Board: 
+@@@@@@@@
+@@@@@@@@
+@@ @@ @@
+@@@@@@@@
+@@@@@@@@
+@@ @@ @@
+@@@@@@@@
+@@@@@@@@
+Tile 0: 
+@ 
+@ 
+@@
+@ 
+Tile 1: 
+@@@
+ @ 
+ @ 
+Tile 2: 
+@  
+@  
+@@@
+Tile 3: 
+@  
+@@ 
+ @@
+Tile 4: 
+ @ 
+@@@
+ @ 
+Tile 5: 
+@ @
+@@@
+Tile 6: 
+@
+@
+@
+@
+@
+Tile 7: 
+@ 
+@ 
+@ 
+@@
+Tile 8: 
+ @
+ @
+@@
+@ 
+Tile 9: 
+ @@
+@@ 
+ @ 
+Tile 10: 
+@@
+@@
+@ 
+Tile 11: 
+@@ 
+ @ 
+ @@
+TotalRowsCreated:1216
+Number of sub-problems: 196
+Unique Solution: 1
+Unique Solution: 2
+Unique Solution: 3
+Unique Solution: 4
+Unique Solution: 5
+Unique Solution: 6
+Unique Solution: 7
+Unique Solution: 8
+Unique Solution: 9
+Unique Solution: 10
+Unique Solution: 11
+Unique Solution: 12
+Unique Solution: 13
+Unique Solution: 14
+Unique Solution: 15
+Unique Solution: 16
+Unique Solution: 17
+Unique Solution: 18
+Unique Solution: 19
+Unique Solution: 20
+Unique Solution: 21
+Puzzle Solution Summary:
+Total Possible Solutions: 168
+Total Unique Solutions: 21
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.587000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 1.561000 Seconds

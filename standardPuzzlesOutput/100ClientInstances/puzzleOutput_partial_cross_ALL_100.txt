@@ -1,0 +1,69 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/partial_cross
+Board Size: 45
+Board Dimenstion: 9 x 9
+Total unique tiles: 12
+Total number of tiles with different orientations: 63
+Board: 
+   OOO   
+   OOO   
+   OOO   
+OOOOOOOOO
+OOOOOOOOO
+OOOOOOOOO
+   OOO   
+   OOO   
+   OOO   
+Tile 0: 
+O
+O
+O
+O
+O
+Tile 1: 
+O 
+O 
+O 
+OO
+Tile 2: 
+ O
+ O
+OO
+O 
+Tile 3: 
+ OO
+OO 
+ O 
+Tile 4: 
+OO
+OO
+O 
+Tile 5: 
+OO 
+ O 
+ OO
+Tile 6: 
+O 
+O 
+OO
+O 
+Tile 7: 
+OOO
+ O 
+ O 
+Tile 8: 
+O  
+O  
+OOO
+Tile 9: 
+O  
+OO 
+ OO
+Tile 10: 
+ O 
+OOO
+ O 
+Tile 11: 
+O O
+OOO
+Given puzzle is not solvable. Num of squares in board should be equal to sum of number of squares in all given tile pieces!

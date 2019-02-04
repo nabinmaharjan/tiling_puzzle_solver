@@ -1,0 +1,48 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/partial_cross2
+Board Size: 45
+Board Dimenstion: 9 x 9
+Total unique tiles: 6
+Total number of tiles with different orientations: 22
+Board: 
+   OOO   
+   OOO   
+   OOO   
+OOOOOOOOO
+OOOOOOOOO
+OOOOOOOOO
+   OOO   
+   OOO   
+   OOO   
+Tile 0: 
+OOO
+O O
+Tile 1: 
+OOO
+ O 
+Tile 2: 
+OOO
+OO 
+OOO
+Tile 3: 
+ OOO 
+OOOOO
+ OOO 
+ OOO 
+Tile 4: 
+OOO
+ OO
+OOO
+Tile 5: 
+OOO
+OOO
+TotalRowsCreated:324
+Number of sub-problems: 48
+Unique Solution: 1
+Unique Solution: 2
+Unique Solution: 3
+Puzzle Solution Summary:
+Total Possible Solutions: 32
+Total Unique Solutions: 3
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.133000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.213000 Seconds

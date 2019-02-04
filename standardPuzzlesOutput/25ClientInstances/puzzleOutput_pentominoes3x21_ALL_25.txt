@@ -1,0 +1,75 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/pentominoes3x21
+Board Size: 60
+Board Dimenstion: 21 x 3
+Total unique tiles: 12
+Total number of tiles with different orientations: 63
+Board: 
+#####################
+#### ##### ##### ####
+#####################
+Tile 0: 
+# 
+# 
+##
+# 
+Tile 1: 
+###
+ # 
+ # 
+Tile 2: 
+#  
+#  
+###
+Tile 3: 
+#  
+## 
+ ##
+Tile 4: 
+ # 
+###
+ # 
+Tile 5: 
+# #
+###
+Tile 6: 
+#
+#
+#
+#
+#
+Tile 7: 
+# 
+# 
+# 
+##
+Tile 8: 
+ #
+ #
+##
+# 
+Tile 9: 
+ ##
+## 
+ # 
+Tile 10: 
+##
+##
+# 
+Tile 11: 
+## 
+ # 
+ ##
+TotalRowsCreated:838
+Number of sub-problems: 46
+Unique Solution: 1
+Unique Solution: 2
+Unique Solution: 3
+Unique Solution: 4
+Unique Solution: 5
+Unique Solution: 6
+Puzzle Solution Summary:
+Total Possible Solutions: 24
+Total Unique Solutions: 6
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.383000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.798000 Seconds

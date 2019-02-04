@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/tilingSolver/Node.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/tilingSolver/TilingPuzzleSolver.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/tilingSolver/DancingLinkSolver.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/tilingSolver/ColumnHeader.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/parser/TilingParser.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/puzzle/SolutionBoard.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/clientServer/ProcessSparseMatrix.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/puzzle/Board.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/tilingSolver/test.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/clientServer/TilingServer.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/clientServer/ThreadManager.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/tilingSolver/PuzzleSolvingWorker.java</file>
+        <file>file:/D:/Nabin/UOM/TilingSolver/src/edu/memphis/clientServer/TilingClient.java</file>
+    </open-files>
+</project-private>

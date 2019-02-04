@@ -1,0 +1,42 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/tetrominoes_shape
+Board Size: 28
+Board Dimenstion: 9 x 6
+Total unique tiles: 7
+Total number of tiles with different orientations: 31
+Board: 
+    X    
+   XXX   
+XXXXXXXXX
+XXXXXXXXX
+   XXX   
+   XXX   
+Tile 0: 
+XX
+XX
+Tile 1: 
+ X 
+XXX
+Tile 2: 
+X 
+XX
+ X
+Tile 3: 
+XXX
+  X
+Tile 4: 
+XX 
+ XX
+Tile 5: 
+XXXX
+Tile 6: 
+  X
+XXX
+TotalRowsCreated:320
+Number of sub-problems: 69
+Unique Solution: 1
+Puzzle Solution Summary:
+Total Possible Solutions: 8
+Total Unique Solutions: 1
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.269000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.320000 Seconds

@@ -1,0 +1,75 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/thirteen_holes
+Board Size: 60
+Board Dimenstion: 11 x 7
+Total unique tiles: 12
+Total number of tiles with different orientations: 63
+Board: 
+ OOOOOOOOO 
+OOO O O OOO
+O OOOOOOO O
+OOO O O OOO
+O OOOOOOO O
+OOO O O OOO
+ OOOOOOOOO 
+Tile 0: 
+O
+O
+O
+O
+O
+Tile 1: 
+O 
+O 
+O 
+OO
+Tile 2: 
+ O
+ O
+OO
+O 
+Tile 3: 
+ OO
+OO 
+ O 
+Tile 4: 
+OO
+OO
+O 
+Tile 5: 
+OO 
+ O 
+ OO
+Tile 6: 
+O 
+O 
+OO
+O 
+Tile 7: 
+OOO
+ O 
+ O 
+Tile 8: 
+O  
+O  
+OOO
+Tile 9: 
+O  
+OO 
+ OO
+Tile 10: 
+ O 
+OOO
+ O 
+Tile 11: 
+O O
+OOO
+TotalRowsCreated:430
+Number of sub-problems: 28
+Unique Solution: 1
+Unique Solution: 2
+Puzzle Solution Summary:
+Total Possible Solutions: 8
+Total Unique Solutions: 2
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.251000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.317000 Seconds

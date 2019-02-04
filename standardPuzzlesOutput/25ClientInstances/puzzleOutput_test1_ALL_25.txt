@@ -1,0 +1,50 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/test1
+Board Size: 64
+Board Dimenstion: 8 x 8
+Total unique tiles: 9
+Total number of tiles with different orientations: 22
+Board: 
+%%%%%%%%
+%%%%%%%%
+%%%%%%%%
+%%%%%%%%
+%%%%%%%%
+%%%%%%%%
+%%%%%%%%
+%%%%%%%%
+Tile 0: 
+ %%%%%% 
+%%%  %% 
+%%%%%%%%
+%%  %%%%
+%%% %% %
+%%%%%% %
+ %%%%% %
+%% %% %%
+Tile 1: 
+%
+Tile 2: 
+%%
+Tile 3: 
+%
+%
+Tile 4: 
+%
+Tile 5: 
+%%%
+Tile 6: 
+%%
+% 
+Tile 7: 
+%
+Tile 8: 
+%
+TotalRowsCreated:780
+Number of sub-problems: 8
+Unique Solution: 1
+Puzzle Solution Summary:
+Total Possible Solutions: 384
+Total Unique Solutions: 1
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.074000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.206000 Seconds

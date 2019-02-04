@@ -1,0 +1,57 @@
+Solution Mode: ALL
+Puzzle Input File: puzzles/test/testPuzzle3
+Board Size: 37
+Board Dimenstion: 9 x 9
+Total unique tiles: 8
+Total number of tiles with different orientations: 29
+Board: 
+    *    
+   ***   
+  * * *  
+ ******* 
+*********
+ ******* 
+  * * *  
+   ***   
+    *    
+Tile 0: 
+ * 
+***
+ * 
+Tile 1: 
+*
+*
+*
+*
+*
+Tile 2: 
+ *
+**
+ *
+Tile 3: 
+**
+**
+* 
+Tile 4: 
+ * 
+***
+** 
+Tile 5: 
+ * 
+ * 
+***
+ * 
+Tile 6: 
+**
+Tile 7: 
+***
+ * 
+TotalRowsCreated:361
+Number of sub-problems: 60
+Unique Solution: 1
+Unique Solution: 2
+Puzzle Solution Summary:
+Total Possible Solutions: 16
+Total Unique Solutions: 2
+Time taken to return 1st solution :0.000000 Hours 0.000000 Minutes 0.242000 Seconds
+Time taken to return all solutions :0.000000 Hours 0.000000 Minutes 0.357000 Seconds
