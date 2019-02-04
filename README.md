@@ -33,7 +33,7 @@ The Tiling Puzzle problem is a type of exact cover problem that can be efficient
 --------------------------------------
 **Report
 --------------------------------------
-Read "TileingPuzzleSolver.pdf" for project implementation details.
+Read "TilingPuzzleSolver.pdf" for project implementation details.
 
 --------------------------------------
 **bin folder
